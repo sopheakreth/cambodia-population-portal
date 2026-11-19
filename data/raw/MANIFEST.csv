@@ -1,0 +1,19 @@
+file,source_url,licence,retrieved_on,retrieved_by
+census1998_province.csv,https://nis.gov.kh/wp-content/uploads/2025/09/General-Population-Census1998.pdf,NIS (check terms),2026-11-19,extracted from PDF Table A
+census2008_province.csv,https://nis.gov.kh/wp-content/uploads/2025/09/GPC2008_Report_ENG.pdf,NIS (check terms),2026-11-19,OCR from PDF Tables PT01/PT04
+census2019_province.csv,https://data.opendevelopmentcambodia.net/datastore/dump/6095b312-5e7d-4723-8cab-9631a38a2f21,CC BY-SA 4.0,2026-11-19,download_data.py
+wb_SP.URB.TOTL.IN.ZS.csv,https://api.worldbank.org/v2/.../SP.URB.TOTL.IN.ZS,CC BY 4.0,2026-11-19,download_data.py
+wb_SP.POP.TOTL.csv,https://api.worldbank.org/v2/.../SP.POP.TOTL,CC BY 4.0,2026-11-19,download_data.py
+wb_EN.POP.DNST.csv,https://api.worldbank.org/v2/.../EN.POP.DNST,CC BY 4.0,2026-11-19,download_data.py
+wb_SP.URB.GROW.csv,https://api.worldbank.org/v2/.../SP.URB.GROW,CC BY 4.0,2026-11-19,download_data.py
+boundaries/province.geojson,https://data.opendevelopmentcambodia.net/dataset/administrative-boundaries-of-cambodia-2014,CC BY 4.0,2026-11-19,download_data.py
+gazetteer_0.xlsx,https://data.opendevelopmentmekong.net/dataset/cambodia-gazetteer,No licence given,2026-11-19,download_data.py
+gazetteer_1.xlsx,https://data.opendevelopmentmekong.net/dataset/cambodia-gazetteer,No licence given,2026-11-19,download_data.py
+gazetteer_2.xlsx,https://data.opendevelopmentmekong.net/dataset/cambodia-gazetteer,No licence given,2026-11-19,download_data.py
+commune_db_2011_0.csv,https://data.opendevelopmentcambodia.net/dataset/commune-database-of-cambodia-commune-level-2011,CC BY 4.0,2026-11-19,download_data.py
+wpp2024_khm_medium.csv,https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz,CC BY 3.0 IGO,2026-11-19,download_data.py
+wpp2024_khm_variants.csv,https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_OtherVariants.csv.gz,CC BY 3.0 IGO,2026-11-19,download_data.py
+mef_province_2025.csv,https://data.mef.gov.kh/api/v1/public-datasets/pd_66a8603700604c000123e144/json,Check portal,2026-11-19,download_data.py
+mef_district_2025.csv,https://data.mef.gov.kh/api/v1/public-datasets/pd_66a8603800604c000123e145/json,Check portal,2026-11-19,download_data.py
+mef_commune_2025.csv,https://data.mef.gov.kh/api/v1/public-datasets/pd_66a8603900604c000123e146/json,Check portal,2026-11-19,download_data.py
+mef_village_2025.csv,https://data.mef.gov.kh/api/v1/public-datasets/pd_66a8603a00604c000123e147/json,Check portal,2026-11-19,download_data.py
