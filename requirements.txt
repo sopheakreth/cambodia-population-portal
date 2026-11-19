@@ -1,13 +1,11 @@
+# What the running app needs (this is what Streamlit Community Cloud installs).
 # Python 3.12 recommended (3.11+ required)
 streamlit==1.67.0
 pandas==3.0.5
 numpy==2.5.3
 plotly==7.1.0
 requests==2.34.2
-openpyxl==3.1.5
+openpyxl==3.1.5          # reads the Gazetteer .xlsx when processed tables are rebuilt
 scikit-learn==1.9.1
 imbalanced-learn==0.14.2
-statsmodels==0.15.0
-pytest==9.1.1
-nbformat==5.11.1
-jupyter
+statsmodels==0.15.0      # forecasts, and the trend line on the density scatter

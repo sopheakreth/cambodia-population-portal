@@ -1,0 +1,6 @@
+# For working on the project: the app plus tests and notebooks.
+#   pip install -r requirements-dev.txt
+-r requirements.txt
+pytest==9.1.1
+nbformat==5.11.1
+jupyter

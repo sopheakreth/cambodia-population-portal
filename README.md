@@ -14,7 +14,8 @@ Research question: *How unevenly is Cambodia's population spread, how fast is th
 ## Run it (3 commands)
 
 ```bash
-pip install -r requirements.txt          # Python 3.11+ (3.12 recommended)
+pip install -r requirements.txt          # the app only (Python 3.11+, 3.12 recommended)
+pip install -r requirements-dev.txt      # app + pytest + notebooks
 python scripts/download_data.py && python scripts/build_processed.py
 streamlit run app.py
 ```
