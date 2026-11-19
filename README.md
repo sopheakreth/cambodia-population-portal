@@ -1,7 +1,7 @@
 # Where do Cambodians live?
 ### Population density, urbanisation and projected growth across Cambodian provinces, 1950–2100
 
-**Live portal:** `https://<your-app>.streamlit.app` ← replace after deploying
+**Live portal:** https://cambodia-population.streamlit.app/
 **Course:** Data Modeling final project, Topic 4
 
 Research question: *How unevenly is Cambodia's population spread, how fast is the urban share growing, and what do UN projections imply for 2050?*
@@ -76,7 +76,7 @@ docs/PROJECT_PLAN.md         plan, status and to-do list
 
 1. Push this repository to GitHub (public), **including `data/raw`, `data/processed` and `data/boundaries`**.
 2. On [share.streamlit.io](https://share.streamlit.io) choose *New app* → your repo → `app.py`, Python 3.12.
-3. Paste the app link at the top of this README.
+3. The app link is at the top of this README. To change the address, open the app's *Settings* on share.streamlit.io and edit *Custom subdomain*.
 
 No passwords or API keys are needed; none are stored in the code.
 
